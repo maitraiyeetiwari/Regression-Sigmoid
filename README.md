@@ -1,4 +1,4 @@
-# Regression-Real_Sigmoid
+# Regression-Real-Sigmoid
 Fitting a sigmoid function to a country's GDP growth.
 # Code and resources
 Python version: 3.9.9
